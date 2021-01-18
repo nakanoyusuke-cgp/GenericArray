@@ -20,7 +20,7 @@ class Program
 ```
 
 ## クラス
-- GArray<T>
+- GArray\<T\>
     - 配列を表すクラスです。TはIConvertibleを継承する必要があります。
-- UnConvertibleArray<T>
+- UnConvertibleArray\<T\>
     - 同じく配列を表すクラスですが、キャストができません。
