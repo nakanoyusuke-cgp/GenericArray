@@ -21,6 +21,6 @@ class Program
 
 ## クラス
 - GArray<T>
- - 配列を表すクラスです。TはIConvertibleを継承する必要があります。
+    - 配列を表すクラスです。TはIConvertibleを継承する必要があります。
 - UnConvertibleArray<T>
- - 同じく配列を表すクラスですが、キャストができません。
+    - 同じく配列を表すクラスですが、キャストができません。
